@@ -1,4 +1,5 @@
-##BruteZip
+
+# BruteZip:
 
 <h5>Coder: Mo Nadeem (MnQazi) </h5>
 <h5>Python</h5>
@@ -22,7 +23,7 @@ This Script is only written for breaking the `*.zip` format files.
 > git clone https://github.com/MnQazi/BruteZip
 > cd BruteZip
 > python BruteZip.py
-```
+> 
 # Usage:
 python BruteZip.py
 Enter your zip file path.!
